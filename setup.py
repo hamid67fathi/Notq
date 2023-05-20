@@ -15,7 +15,7 @@ setup(
     install_requires=['torchaudio ==2.0.2',
                         'pydub ==0.25.1',
                         'speechRecognition ==3.8.1',
-                        'numpy ==1.19.2',
+                        'numpy ==1.24.3',
                         'tqdm ==4.61.2',
                         'transformers ==4.11.2',
                         'torch ==2.0.1',
