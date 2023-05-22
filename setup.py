@@ -23,8 +23,8 @@ setup(
                         'persian_fluency_detector',
                         'persian_syllable_counter'],
 
-    dependency_links=['https://github.com/salsina/persian-fluency-detector#egg=persian_fluency_detector', 
-                      'https://github.com/salsina/Persian-syllable-counter#egg=persian_syllable_counter'],
+    #dependency_links=['https://github.com/salsina/persian-fluency-detector#egg=persian_fluency_detector', 
+     #                 'https://github.com/salsina/Persian-syllable-counter#egg=persian_syllable_counter'],
     
     keywords=['python', 'first package'],
         classifiers= [
